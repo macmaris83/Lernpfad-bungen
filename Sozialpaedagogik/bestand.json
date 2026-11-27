@@ -1,0 +1,182 @@
+[
+  {
+    "ls": "1.1",
+    "title": "Berufsrolle begründen",
+    "folder": "LS1_1",
+    "tasks": 30
+  },
+  {
+    "ls": "1.2",
+    "title": "Erziehungsbedingungen beurteilen",
+    "folder": "LS1_2",
+    "tasks": 30
+  },
+  {
+    "ls": "1.3",
+    "title": "Beziehungen gestalten",
+    "folder": "LS1_3",
+    "tasks": 30
+  },
+  {
+    "ls": "1.4",
+    "title": "Regeln begründen",
+    "folder": "LS1_4",
+    "tasks": 30
+  },
+  {
+    "ls": "1.5",
+    "title": "Bildungsprozesse gestalten",
+    "folder": "LS1_5",
+    "tasks": 30
+  },
+  {
+    "ls": "1.6",
+    "title": "Praxiskompetenz reflektieren",
+    "folder": "LS1_6",
+    "tasks": 30
+  },
+  {
+    "ls": "2.1",
+    "title": "Beobachtungen dokumentieren",
+    "folder": "LS2_1",
+    "tasks": 30
+  },
+  {
+    "ls": "2.2",
+    "title": "Entwicklung einordnen",
+    "folder": "LS2_2",
+    "tasks": 30
+  },
+  {
+    "ls": "2.3",
+    "title": "Bildungsangebote planen",
+    "folder": "LS2_3",
+    "tasks": 30
+  },
+  {
+    "ls": "2.4",
+    "title": "Übergänge begleiten",
+    "folder": "LS2_4",
+    "tasks": 30
+  },
+  {
+    "ls": "2.5",
+    "title": "Praxis auswerten",
+    "folder": "LS2_5",
+    "tasks": 30
+  },
+  {
+    "ls": "3.1",
+    "title": "Sozialisation analysieren",
+    "folder": "LS3_1",
+    "tasks": 30
+  },
+  {
+    "ls": "3.2",
+    "title": "Lebenswelten analysieren",
+    "folder": "LS3_2",
+    "tasks": 30
+  },
+  {
+    "ls": "4.1",
+    "title": "Erklärungsmodelle vergleichen",
+    "folder": "LS4_1",
+    "tasks": 30
+  },
+  {
+    "ls": "4.2",
+    "title": "Unterstützungsmaßnahmen entwickeln",
+    "folder": "LS4_2",
+    "tasks": 30
+  },
+  {
+    "ls": "4.3",
+    "title": "Fallperspektiven koordinieren",
+    "folder": "LS4_3",
+    "tasks": 30
+  },
+  {
+    "ls": "4.4",
+    "title": "Schutzfaktoren fördern",
+    "folder": "LS4_4",
+    "tasks": 30
+  },
+  {
+    "ls": "4.5",
+    "title": "Hilfesysteme erschließen",
+    "folder": "LS4_5",
+    "tasks": 30
+  },
+  {
+    "ls": "5.1",
+    "title": "Jugendhilfe strukturieren",
+    "folder": "LS5_1",
+    "tasks": 30
+  },
+  {
+    "ls": "5.2",
+    "title": "Beteiligung planen",
+    "folder": "LS5_2",
+    "tasks": 30
+  },
+  {
+    "ls": "5.3",
+    "title": "Teilhabe gestalten",
+    "folder": "LS5_3",
+    "tasks": 30
+  },
+  {
+    "ls": "6.1",
+    "title": "Lebenslagen analysieren",
+    "folder": "LS6_1",
+    "tasks": 30
+  },
+  {
+    "ls": "6.2",
+    "title": "Barrieren abbauen",
+    "folder": "LS6_2",
+    "tasks": 30
+  },
+  {
+    "ls": "6.3",
+    "title": "Vorurteile reflektieren",
+    "folder": "LS6_3",
+    "tasks": 30
+  },
+  {
+    "ls": "6.4",
+    "title": "Chancengerechtigkeit fördern",
+    "folder": "LS6_4",
+    "tasks": 30
+  },
+  {
+    "ls": "6.5",
+    "title": "Teilhabe konzipieren",
+    "folder": "LS6_5",
+    "tasks": 30
+  },
+  {
+    "ls": "7.1",
+    "title": "Berufsidentität reflektieren",
+    "folder": "LS7_1",
+    "tasks": 30
+  },
+  {
+    "ls": "7.2",
+    "title": "Teamkommunikation gestalten",
+    "folder": "LS7_2",
+    "tasks": 30
+  },
+  {
+    "ls": "7.3",
+    "title": "Berufswege planen",
+    "folder": "LS7_3",
+    "tasks": 30
+  },
+  {
+    "ls": "7.4",
+    "title": "Kompetenzen bilanzieren",
+    "folder": "LS7_4",
+    "tasks": 30
+  }
+]
