@@ -1,0 +1,5 @@
+Lernpfadübung · LS 6.3 · Den Posteingang und Postausgang bearbeiten
+
+Grundlage: Moodle-Board „Arbeitspakete (2. Halbjahr)“, Sicherungsstand 27.11.2026, 14:02 Uhr · Lernsituation „Damit die Post richtig ankommt“ · M1–M3 und freiwillige Übungen Ü1 Posteingang, Ü2 Postausgang, Ü3 Dokumentenverwaltung
+30 Kernaufgaben und 48 Reserveaufgaben.
+Manifest, Aufgaben und Lösungsschlüssel sowie Lernpfad, Antwortmischung, Stufenaufstieg, Transfer, Fortsetzen und Lehrkraft-Export mit simulierter SCORM-1.2-Schnittstelle geprüft.

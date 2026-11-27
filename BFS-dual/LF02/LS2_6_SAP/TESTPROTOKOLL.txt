@@ -1,0 +1,5 @@
+Lernpfadübung · LS 2.6 · Kundenanfragen bearbeiten mit SAP (Praxis)
+
+Grundlage: Moodle-Board Arbeitspakete (2. Halbjahr), Karte 382 · Lernsituation_Absatzvorgaenge_SAP.md, erster Absatzvorgang und Übungsfälle Verbandskästen und Fahrradcomputer
+30 Kernaufgaben und 48 Reserveaufgaben.
+Manifest, Aufgaben und Lösungsschlüssel sowie Lernpfad, Antwortmischung, Stufenaufstieg, Transfer, Fortsetzen und Lehrkraft-Export mit simulierter SCORM-1.2-Schnittstelle geprüft.

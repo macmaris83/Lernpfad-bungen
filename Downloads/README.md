@@ -37,6 +37,31 @@ Jede ZIP einzeln als SCORM-Aktivität in Moodle importieren. Vorhandene Moodle-K
 | Sozialpädagogik | Berufswege planen | 1.0 | [ZIP](SOZPAED-LERNPFAD-LS7_3/SozPaed_Lernpfad_LS7_3_v1.0_SCORM12.zip) |
 | Sozialpädagogik | Kompetenzen bilanzieren | 1.0 | [ZIP](SOZPAED-LERNPFAD-LS7_4/SozPaed_Lernpfad_LS7_4_v1.0_SCORM12.zip) |
 | BFS dual | Duales System verstehen | 1.0 | [ZIP](VORLAGE-LERNPFAD/Vorlage_Lernpfaduebung_v1.0_SCORM12.zip) |
+| BFS Dual · LF01 | LS 1.1 · Unternehmen erkunden, vergleichen und präsentieren | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF01-LS1_1/BFSdual_LF01_Lernpfad_LS1_1_v1.1_SCORM12.zip) |
+| BFS Dual · Lernfeld 1 | LS 1.2 · Unternehmensziele und Zielkonflikte beurteilen | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF01-LS1_2/BFSdual_LF01_Lernpfad_LS1_2_v1.1_SCORM12.zip) |
+| BFS Dual · LF01 | LS 1.3 · Betriebliche Strukturen und Zuständigkeiten verstehen | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF01-LS1_3/BFSdual_LF01_Lernpfad_LS1_3_v1.1_SCORM12.zip) |
+| BFS Dual · LF02 | LS 2.1 · Kommunikation und Absatz I (Theorie) | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF02-LS2_1/BFSdual_LF02_Lernpfad_LS2_1_v1.1_SCORM12.zip) |
+| BFS Dual · LF02 | LS 2.2 · Kommunikation und Absatz II (Praxis) | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF02-LS2_2/BFSdual_LF02_Lernpfad_LS2_2_v1.1_SCORM12.zip) |
+| BFS Dual · LF02 | LS 2.3 · Rechtliche Grundlagen für Kaufverträge (Theorie) | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF02-LS2_3/BFSdual_LF02_Lernpfad_LS2_3_v1.1_SCORM12.zip) |
+| BFS Dual · LF02 | LS 2.4 · Kundenangebote erstellen und Bestellungen prüfen | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF02-LS2_4/BFSdual_LF02_Lernpfad_LS2_4_v1.1_SCORM12.zip) |
+| BFS Dual · LF02 | LS 2.5 · Auftrag abwickeln und auswerten | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF02-LS2_5/BFSdual_LF02_Lernpfad_LS2_5_v1.1_SCORM12.zip) |
+| BFS Dual · Lernfeld 2 | LS 2.6 · Excel für Büroaufgaben | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF02-LS2_6_Excel/BFSdual_LF02_Lernpfad_LS2_6_Excel_v1.1_SCORM12.zip) |
+| BFS Dual · Lernfeld 2 | LS 2.6 · Kundenanfragen bearbeiten mit SAP (Praxis) | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF02-LS2_6_SAP/BFSdual_LF02_Lernpfad_LS2_6_SAP_v1.1_SCORM12.zip) |
+| BFS Dual · Lernfeld 2 | LS 2.7 · Einen Kundenauftrag abwickeln mit SAP (Praxis) | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF02-LS2_7/BFSdual_LF02_Lernpfad_LS2_7_v1.1_SCORM12.zip) |
+| BFS Dual · LF03 | LS 3.1 · Beschaffung wirtschaftlich planen – die richtige Bestellstrategie für Global Bike | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF03-LS3_1/BFSdual_LF03_Lernpfad_LS3_1_v1.1_SCORM12.zip) |
+| BFS Dual · LF03 | LS 3.2 · Lagerhaltung optimieren – ABC-Analyse und Entscheidung über Eigen- oder Fremdlagerung | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF03-LS3_2/BFSdual_LF03_Lernpfad_LS3_2_v1.1_SCORM12.zip) |
+| BFS Dual · LF03 | LS 3.3 · Wenn Lieferungen nicht wie vereinbart erfolgen | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF03-LS3_3/BFSdual_LF03_Lernpfad_LS3_3_v1.1_SCORM12.zip) |
+| BFS Dual · Lernfeld 6 · Büro | LS 6.1 · Büro mit Zukunft · Arbeitsplatzgestaltung und Ergonomie | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-BUERO-LS6_1/BFSdual_LF06_Buero_Lernpfad_LS6_1_v1.1_SCORM12.zip) |
+| BFS Dual · Lernfeld 6 · Büro | LS 6.2 · Alles im Blick · Termine und Besprechungen organisieren | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-BUERO-LS6_2/BFSdual_LF06_Buero_Lernpfad_LS6_2_v1.1_SCORM12.zip) |
+| BFS Dual · Lernfeld 6 · Büro | LS 6.3 · Den Posteingang und Postausgang bearbeiten | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-BUERO-LS6_3/BFSdual_LF06_Buero_Lernpfad_LS6_3_v1.1_SCORM12.zip) |
+| BFS Dual · LF06 | LS 6.1 · Die Nachfrage an zwei Standorten vergleichen | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-LS6_1/BFSdual_LF06_Lernpfad_LS6_1_v1.1_SCORM12.zip) |
+| BFS Dual · LF06 | LS 6.2 · Ein gemeinsames Sortiment mit lokalen Ergänzungen zusammenstellen | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-LS6_2/BFSdual_LF06_Lernpfad_LS6_2_v1.1_SCORM12.zip) |
+| BFS Dual · LF06 | LS 6.3 · Waren im Fahrradfachgeschäft präsentieren | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-LS6_3/BFSdual_LF06_Lernpfad_LS6_3_v1.1_SCORM12.zip) |
+| BFS Dual · LF06 | LS 6.4 · Waren auf einer Selbstbedienungsfläche präsentieren | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-LS6_4/BFSdual_LF06_Lernpfad_LS6_4_v1.1_SCORM12.zip) |
+| BFS Dual · LF06 | LS 6.5 · Eine gemeinsame Werbeaktion abstimmen | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-LS6_5/BFSdual_LF06_Lernpfad_LS6_5_v1.1_SCORM12.zip) |
+| BFS Dual · LF06 | LS 6.6 · Werbemittel für beide Standorte gestalten | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-LS6_6/BFSdual_LF06_Lernpfad_LS6_6_v1.1_SCORM12.zip) |
+| BFS Dual · LF06 | LS 6.7 · Die Entwürfe vor der Freigabe prüfen | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-LS6_7/BFSdual_LF06_Lernpfad_LS6_7_v1.1_SCORM12.zip) |
+| BFS Dual · LF06 | LS 6.8 · Über die Fortführung der Aktion entscheiden | 1.1 | [ZIP](BFSDUAL-LERNPFAD-LF06-LS6_8/BFSdual_LF06_Lernpfad_LS6_8_v1.1_SCORM12.zip) |
 
 Maschinenlesbare Zuordnung und Prüfsummen: [aktuell.json](aktuell.json).
 Vor einer automatischen Nutzung: `python tools/master.py check --archives`.

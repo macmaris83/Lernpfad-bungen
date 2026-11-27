@@ -1,0 +1,5 @@
+Lernpfadübung · LS 2.6 · Excel für Büroaufgaben
+
+Grundlage: Moodle-Board Arbeitspakete (2. Halbjahr) · LS 2.6 Excel · Global_Bike_Excel_FINAL_12_Stunden.zip · Lernsituation_Excel.md, M1–M14 und Ü1–Ü14
+30 Kernaufgaben und 48 Reserveaufgaben.
+Manifest, Aufgaben und Lösungsschlüssel sowie Lernpfad, Antwortmischung, Stufenaufstieg, Transfer, Fortsetzen und Lehrkraft-Export mit simulierter SCORM-1.2-Schnittstelle geprüft.
